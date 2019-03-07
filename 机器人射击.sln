@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "机器人射击", "Assembly-CSharp.csproj", "{195B03B3-F161-0B44-08BA-803F08F6D41E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{195B03B3-F161-0B44-08BA-803F08F6D41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{195B03B3-F161-0B44-08BA-803F08F6D41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{195B03B3-F161-0B44-08BA-803F08F6D41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{195B03B3-F161-0B44-08BA-803F08F6D41E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
